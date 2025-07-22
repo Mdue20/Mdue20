@@ -1,0 +1,16 @@
+.container{
+    border-radius:20px;
+    margin-top:20px;
+    width:600px; 
+    height:350px; 
+    background: linear-gradient(135deg, #e4dddc, #40676e, #2faee5);
+    border:2px solid black;
+}
+
+.bi-check-circle-fill{
+  font-size:20px;
+}
+
+.p{
+    font-size:13px;
+}
